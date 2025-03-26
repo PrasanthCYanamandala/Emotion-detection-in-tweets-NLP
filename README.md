@@ -1,5 +1,5 @@
 # 😃 Emotion Detection – Fall 2024 Kaggle Competition  
-**BUAN 6359: Natural Language Processing Final Project**
+**Natural Language Processing Final Project**
 
 This repository contains our end-to-end solution for the [Kaggle Emotion Detection Fall 2024 competition](https://www.kaggle.com/competitions/emotion-detection-fall-2024/overview), which challenges participants to build robust models that detect multiple emotional states in tweets. The task involves **multi-label classification** across 11 emotions such as joy, sadness, fear, anger, trust, and more.
 
@@ -102,7 +102,7 @@ This repository contains our end-to-end solution for the [Kaggle Emotion Detecti
 
 **Prasanth Chowdary Yanamandala**  
 University of Texas at Dallas | Fall 2024  
-Kaggle Username: `pxy230011`
+Kaggle Username: `prasanthchowdaryy`
 
 ---
 
